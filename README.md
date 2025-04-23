@@ -1,0 +1,1 @@
+Instructions d'installation et de configuration du projet.
