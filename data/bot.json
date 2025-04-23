@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bot de Réservation",
+    "description": "Automatise la prise de rendez-vous via WhatsApp.",
+    "image": "/assets/reservation_bot.jpg",
+    "link": "https://wa.me/24105730123",
+    "date": "2025-04-23"
+  },
+  {
+    "name": "Bot de Support",
+    "description": "Répond aux questions fréquentes de vos clients.",
+    "image": "/assets/support_bot.jpg",
+    "link": "https://wa.me/24105730123",
+    "date": "2025-04-22"
+  }
+]
